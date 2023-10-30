@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: pru-repo
   description: |
-    Prueba del repositorio con backstage
+    Repositorio con backstage
   links:
     - title: Website
       url: http://backstage.io
